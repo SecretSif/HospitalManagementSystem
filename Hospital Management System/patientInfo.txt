@@ -1,0 +1,21 @@
+-----------------------------------------------------------------------------------------------------------------------------------------
+                                                        Daffodil Hospital Limited                                                        
+                                                         (Patient Prescription )                                                         
+-----------------------------------------------------------------------------------------------------------------------------------------
+     Patient Id           : 0                          Admitted Reason: Fever         
+     Patient Name         : Ariful Rahman                          Admitted Date:                                             
+     Patient Address      : Sylhet                          Sun Jun 18 10:04:50 PDT 2023                                 
+     Patient DateOfBirth  : 02/12/1998                          Discharge Reason: RECOVERED        
+     Patient Number       : 01762786263                          Discharge Date:                                            
+                                                                              Sun Jun 18 10:06:04 PDT 2023                                  
+     Given diagnosis: 
+         Blood Test
+     Given medication:
+         Antibiotics
+     Given surgery:
+         General Surgery
+     Prescribed by:
+         Dr.Fariha Islam Suborna
+         Neurosurgeon
+         01887394893
+-----------------------------------------------------------------------------------------------------------------------------------------
